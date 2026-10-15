@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:simple_block",
+  "schedule_tick": true,
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "weight": 4,
+        "data": {
+          "id": "minecraft:closed_eyeblossom",
+          "properties": {
+            "flowers": "1"
+          }
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "id": "minecraft:closed_eyeblossom",
+          "properties": {
+            "flowers": "2"
+          }
+        }
+      },
+      {
+        "weight": 2,
+        "data": {
+          "id": "minecraft:closed_eyeblossom",
+          "properties": {
+            "flowers": "3"
+          }
+        }
+      },
+      {
+        "weight": 1,
+        "data": {
+          "id": "minecraft:closed_eyeblossom",
+          "properties": {
+            "flowers": "4"
+          }
+        }
+      }
+    ]
+  }
+}

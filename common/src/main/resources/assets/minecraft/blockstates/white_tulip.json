@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flowers=1": {
+      "model": "block/white_tulip"
+    },
+    "flowers=2": {
+      "model": "great_big_world:block/two_white_tulips"
+    },
+    "flowers=3": {
+      "model": "great_big_world:block/three_white_tulips"
+    },
+    "flowers=4": {
+      "model": "great_big_world:block/four_white_tulips"
+    }
+  }
+}

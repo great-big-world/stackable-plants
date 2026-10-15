@@ -1,0 +1,232 @@
+{
+  "type": "minecraft:noise_threshold",
+  "default_state": "minecraft:dandelion",
+  "high_chance": 0.33333334,
+  "high_states": [
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+
+    {
+      "id": "minecraft:dandelion",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+
+    {
+      "id": "minecraft:dandelion",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+
+    {
+      "id": "minecraft:dandelion",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "4"
+      }
+    }
+  ],
+  "low_states": [
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    }
+  ],
+  "noise": {
+    "base_amplitude": 0.955388882960065,
+    "base_octave": 0
+  },
+  "scale": 0.005,
+  "seed": 2345,
+  "threshold": -0.8
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "stackable_plants",
+  "version": "${version}",
+  "name": "Stackable Plants",
+  "description": "Sculk blocks generate & place in any direction\n",
+  "authors": ["creoii"],
+  "contact": {
+    "homepage": "https://greatbigworld.creoii.dev"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/stackable_plants/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.creoii.greatbigworld.stackableplants.fabric.StackablePlantsFabric"
+    ]
+  },
+  "mixins": [
+    "stackableplants.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25"
+    ,"architectury": ">=22.0.4"
+    ,"fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

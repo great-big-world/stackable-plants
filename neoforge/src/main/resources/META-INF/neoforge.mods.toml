@@ -1,0 +1,39 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "stackable_plants"
+version = "${version}"
+displayName = "Stackable Plants"
+authors = "creoii"
+description = '''
+Various Glass-related improvements
+'''
+displayURL="https://greatbigworld.creoii.dev"
+iconFile = "src/main/resources/assets/stackable_plants/icon.png"
+
+[[dependencies.stackable_plants]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.stackable_plants]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.stackable_plants]]
+modId = "architectury"
+type = "required"
+versionRange = "[22.0.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "stackableplants.mixins.json"

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flowers=1": {
+      "model": "block/lily_of_the_valley"
+    },
+    "flowers=2": {
+      "model": "great_big_world:block/two_lillies_of_the_valley"
+    },
+    "flowers=3": {
+      "model": "great_big_world:block/three_lillies_of_the_valley"
+    },
+    "flowers=4": {
+      "model": "great_big_world:block/four_lillies_of_the_valley"
+    }
+  }
+}

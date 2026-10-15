@@ -1,0 +1,84 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "data": "minecraft:crimson_roots",
+        "weight": 870
+      },
+      {
+        "data": {
+          "id": "minecraft:crimson_fungus",
+          "properties": {
+            "mushrooms": "1"
+          }
+        },
+        "weight": 44
+      },
+      {
+        "data": {
+          "id": "minecraft:crimson_fungus",
+          "properties": {
+            "mushrooms": "2"
+          }
+        },
+        "weight": 33
+      },
+      {
+        "data": {
+          "id": "minecraft:crimson_fungus",
+          "properties": {
+            "mushrooms": "3"
+          }
+        },
+        "weight": 22
+      },
+      {
+        "data": {
+          "id": "minecraft:crimson_fungus",
+          "properties": {
+            "mushrooms": "4"
+          }
+        },
+        "weight": 11
+      },
+      {
+        "data": {
+          "id": "minecraft:warped_fungus",
+          "properties": {
+            "mushrooms": "1"
+          }
+        },
+        "weight": 4
+      },
+      {
+        "data": {
+          "id": "minecraft:warped_fungus",
+          "properties": {
+            "mushrooms": "2"
+          }
+        },
+        "weight": 3
+      },
+      {
+        "data": {
+          "id": "minecraft:warped_fungus",
+          "properties": {
+            "mushrooms": "3"
+          }
+        },
+        "weight": 2
+      },
+      {
+        "data": {
+          "id": "minecraft:warped_fungus",
+          "properties": {
+            "mushrooms": "4"
+          }
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

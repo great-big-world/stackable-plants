@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flowers=1": {
+      "model": "block/open_eyeblossom"
+    },
+    "flowers=2": {
+      "model": "great_big_world:block/two_open_eyeblossoms"
+    },
+    "flowers=3": {
+      "model": "great_big_world:block/three_open_eyeblossoms"
+    },
+    "flowers=4": {
+      "model": "great_big_world:block/four_open_eyeblossoms"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "great_big_world:block/double_cross_emissive",
+  "textures": {
+    "cross": "block/open_eyeblossom",
+    "cross_emissive": "block/open_eyeblossom_emissive"
+  }
+}

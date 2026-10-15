@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "weight": 4,
+        "data": {
+          "id": "minecraft:red_mushroom",
+          "properties": {
+            "mushrooms": "1"
+          }
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "id": "minecraft:red_mushroom",
+          "properties": {
+            "mushrooms": "2"
+          }
+        }
+      },
+      {
+        "weight": 2,
+        "data": {
+          "id": "minecraft:red_mushroom",
+          "properties": {
+            "mushrooms": "3"
+          }
+        }
+      },
+      {
+        "weight": 1,
+        "data": {
+          "id": "minecraft:red_mushroom",
+          "properties": {
+            "mushrooms": "4"
+          }
+        }
+      }
+    ]
+  }
+}

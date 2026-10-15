@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flowers=1": {
+      "model": "block/oxeye_daisy"
+    },
+    "flowers=2": {
+      "model": "great_big_world:block/two_oxeye_daisies"
+    },
+    "flowers=3": {
+      "model": "great_big_world:block/three_oxeye_daisies"
+    },
+    "flowers=4": {
+      "model": "great_big_world:block/four_oxeye_daisies"
+    }
+  }
+}

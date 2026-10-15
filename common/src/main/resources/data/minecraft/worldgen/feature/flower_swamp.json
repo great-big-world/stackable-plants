@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "weight": 4,
+        "data": {
+          "id": "minecraft:blue_orchid",
+          "properties": {
+            "flowers": "1"
+          }
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "id": "minecraft:blue_orchid",
+          "properties": {
+            "flowers": "2"
+          }
+        }
+      },
+      {
+        "weight": 2,
+        "data": {
+          "id": "minecraft:blue_orchid",
+          "properties": {
+            "flowers": "3"
+          }
+        }
+      },
+      {
+        "weight": 1,
+        "data": {
+          "id": "minecraft:blue_orchid",
+          "properties": {
+            "flowers": "4"
+          }
+        }
+      }
+    ]
+  }
+}

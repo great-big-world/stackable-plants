@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flowers=1": {
+      "model": "block/poppy"
+    },
+    "flowers=2": {
+      "model": "great_big_world:block/two_poppies"
+    },
+    "flowers=3": {
+      "model": "great_big_world:block/three_poppies"
+    },
+    "flowers=4": {
+      "model": "great_big_world:block/four_poppies"
+    }
+  }
+}

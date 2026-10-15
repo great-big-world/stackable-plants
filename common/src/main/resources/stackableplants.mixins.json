@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "dev.creoii.greatbigworld.stackableplants.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "FlowerBlockMixin",
+    "MushroomPlantBlockMixin",
+    "NetherFungusBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "#cross"
+  },
+  "elements": [
+    {
+      "from": [-1.2, 0, 8.8],
+      "to": [14.8, 16, 8.8],
+      "rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9],"rescale": true},
+      "shade_direction_override": "up",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+      }
+    },
+    {
+      "from": [9, 0, 0],
+      "to": [9, 16, 16],
+      "rotation": {"angle": 45, "axis": "y", "origin": [10, 8, 7],"rescale": true},
+      "shade_direction_override": "up",
+      "faces": {
+        "north": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+        "south": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+        "up": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+        "down": {"uv": [0, 0, 0, 0], "texture": "#cross"}
+      }
+    },
+    {
+      "from": [1, 0, 8],
+      "to": [17, 16, 8],
+      "rotation": {"angle": 45, "axis": "y", "origin": [10, 8, 7],"rescale": true},
+      "shade_direction_override": "up",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+        "east": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+        "west": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+        "up": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+        "down": {"uv": [0, 0, 0, 0], "texture": "#cross"}
+      }
+    },
+    {
+      "from": [6.8, 0, 0.8],
+      "to": [6.8, 16, 16.8],
+      "shade_direction_override": "up",
+      "rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9],"rescale": true},
+      "faces": {
+        "east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+      }
+    },
+
+
+
+    {
+      "from": [-1.2, 0, 8.8],
+      "to": [14.8, 16, 8.8],
+      "light_emission": 15,
+      "rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9],"rescale": true},
+      "shade_direction_override": "up",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"}
+      }
+    },
+    {
+      "from": [9, 0, 0],
+      "to": [9, 16, 16],
+      "light_emission": 15,
+      "rotation": {"angle": 45, "axis": "y", "origin": [10, 8, 7],"rescale": true},
+      "shade_direction_override": "up",
+      "faces": {
+        "north": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"},
+        "south": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"},
+        "up": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"},
+        "down": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"}
+      }
+    },
+    {
+      "from": [1, 0, 8],
+      "to": [17, 16, 8],
+      "light_emission": 15,
+      "rotation": {"angle": 45, "axis": "y", "origin": [10, 8, 7],"rescale": true},
+      "shade_direction_override": "up",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"},
+        "east": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"},
+        "west": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"},
+        "up": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"},
+        "down": {"uv": [0, 0, 0, 0], "texture": "#cross_emissive"}
+      }
+    },
+    {
+      "from": [6.8, 0, 0.8],
+      "to": [6.8, 16, 16.8],
+      "light_emission": 15,
+      "rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9],"rescale": true},
+      "shade_direction_override": "up",
+      "faces": {
+        "east": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#cross_emissive"}
+      }
+    }
+  ]
+}

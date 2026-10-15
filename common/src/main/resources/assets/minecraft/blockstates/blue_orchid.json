@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flowers=1": {
+      "model": "block/blue_orchid"
+    },
+    "flowers=2": {
+      "model": "great_big_world:block/two_blue_orchids"
+    },
+    "flowers=3": {
+      "model": "great_big_world:block/three_blue_orchids"
+    },
+    "flowers=4": {
+      "model": "great_big_world:block/four_blue_orchids"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "mushrooms=1": {
+      "model": "block/brown_mushroom"
+    },
+    "mushrooms=2": {
+      "model": "great_big_world:block/two_brown_mushrooms"
+    },
+    "mushrooms=3": {
+      "model": "great_big_world:block/three_brown_mushrooms"
+    },
+    "mushrooms=4": {
+      "model": "great_big_world:block/four_brown_mushrooms"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "mushrooms=1": {
+      "model": "block/warped_fungus"
+    },
+    "mushrooms=2": {
+      "model": "great_big_world:block/two_warped_fungi"
+    },
+    "mushrooms=3": {
+      "model": "great_big_world:block/three_warped_fungi"
+    },
+    "mushrooms=4": {
+      "model": "great_big_world:block/four_warped_fungi"
+    }
+  }
+}

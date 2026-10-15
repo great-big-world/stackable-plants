@@ -1,0 +1,275 @@
+{
+  "type": "minecraft:noise",
+  "noise": {
+    "base_amplitude": 0.955388882960065,
+    "base_octave": 0
+  },
+  "scale": 0.020833334,
+  "seed": 2345,
+  "states": [
+    {
+      "id": "minecraft:dandelion",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:allium",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "properties": {
+        "flowers": "1"
+      }
+    },
+    {
+      "id": "minecraft:dandelion",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:allium",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "properties": {
+        "flowers": "2"
+      }
+    },
+    {
+      "id": "minecraft:dandelion",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:allium",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "properties": {
+        "flowers": "3"
+      }
+    },
+    {
+      "id": "minecraft:dandelion",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:poppy",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:allium",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:cornflower",
+      "properties": {
+        "flowers": "4"
+      }
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "properties": {
+        "flowers": "4"
+      }
+    }
+  ]
+}

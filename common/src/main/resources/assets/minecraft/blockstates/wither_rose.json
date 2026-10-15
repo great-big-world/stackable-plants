@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flowers=1": {
+      "model": "block/wither_rose"
+    },
+    "flowers=2": {
+      "model": "great_big_world:block/two_wither_roses"
+    },
+    "flowers=3": {
+      "model": "great_big_world:block/three_wither_roses"
+    },
+    "flowers=4": {
+      "model": "great_big_world:block/four_wither_roses"
+    }
+  }
+}
