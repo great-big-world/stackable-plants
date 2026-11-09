@@ -9,7 +9,7 @@ version = "${version}"
 displayName = "Stackable Plants"
 authors = "creoii"
 description = '''
-Various Glass-related improvements
+Flowers & Mushrooms stack like a Sea Pickle
 '''
 displayURL="https://greatbigworld.creoii.dev"
 iconFile = "src/main/resources/assets/stackable_plants/icon.png"

@@ -3,7 +3,7 @@
   "id": "stackable_plants",
   "version": "${version}",
   "name": "Stackable Plants",
-  "description": "Sculk blocks generate & place in any direction\n",
+  "description": "Flowers & Mushrooms stack like a Sea Pickle",
   "authors": ["creoii"],
   "contact": {
     "homepage": "https://greatbigworld.creoii.dev"
